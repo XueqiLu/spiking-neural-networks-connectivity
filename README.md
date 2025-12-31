@@ -77,7 +77,5 @@ These measures allow systematic comparison across different network regimes.
 
 Detailed results and discussion are provided in the accompanying paper.
 
----
 
-## Repository Structure
 
